@@ -9,12 +9,12 @@
   "homepage": "https://fullcalendar.io/docs/rrule-plugin",
   "peerDependencies": {
     "@fullcalendar/core": "~6.0.3",
-    "rrule": "^2.6.0"
+    "rrule": "^2.7.0"
   },
   "devDependencies": {
     "@fullcalendar/core": "~6.0.3",
     "@fullcalendar/standard-scripts": "*",
-    "rrule": "^2.6.0"
+    "rrule": "^2.7.0"
   },
   "scripts": {
     "build": "standard-scripts pkg:build",
